@@ -1,2 +1,2 @@
-# MSN
-My Study Notebook
+# TIL
+Today I Learned
